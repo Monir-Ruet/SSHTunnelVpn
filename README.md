@@ -60,6 +60,10 @@ After building QT application, you need to provide the ssh credential in the des
 ### Lets go
 Press `Connect` to connect to the server.
 
+<p align="center">
+   <img src="/SSHTunnelVpn.png" alt="Sample Image" width="500" height="700">
+</p>
+
 Now need to change browser proxy as mentioned before.
 
 ### Troubleshooting:
