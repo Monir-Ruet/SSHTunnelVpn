@@ -1,5 +1,5 @@
 # SSHTunnelVpn (SSH + HTTP Proxy)
-## For Console Type Application
+## For Console Type Application (Linux + Mac)
 ### Prerequisites
 
 Before starting, make sure you have the following installed on your Linux system:
